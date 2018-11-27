@@ -1,0 +1,10 @@
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\tareaMN\tareaMN\bin\Debug\tareaMN.exe.config
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\tareaMN\tareaMN\bin\Debug\tareaMN.exe
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\tareaMN\tareaMN\bin\Debug\tareaMN.pdb
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\tareaMN\tareaMN\obj\Debug\tareaMN.csprojAssemblyReference.cache
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\tareaMN\tareaMN\obj\Debug\tareaMN.Form1.resources
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\tareaMN\tareaMN\obj\Debug\tareaMN.Properties.Resources.resources
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\tareaMN\tareaMN\obj\Debug\tareaMN.csproj.GenerateResource.cache
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\tareaMN\tareaMN\obj\Debug\tareaMN.csproj.CoreCompileInputs.cache
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\tareaMN\tareaMN\obj\Debug\tareaMN.exe
+C:\Users\ASKII.DESKTOP-D39ELPS\source\repos\tareaMN\tareaMN\obj\Debug\tareaMN.pdb
